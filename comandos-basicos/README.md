@@ -2,7 +2,7 @@
 
 - Obs: antes de iniciar a leitura dos comandos.
   - Aspas simples significa que não precisa usar aspas para realizar o comando
-  - Aspas dupla significa que precisa usar aspas para realziar o comando
+  - Aspas dupla significa que precisa usar aspas para realizar o comando
 
 ### Iniciando GIT em um projeto
 
@@ -27,7 +27,7 @@
 
 ### Comandos básicos (Listar e Adicionar)
 
-*** IMPORTANTE ***
+**IMPORTANTE**
 - $git status
   - Listar arquivos do projeto com git
 
