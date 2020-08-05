@@ -6,7 +6,7 @@ maneira eficaz, caso seja últil para você não esqueça de deixar o ***Starrin
 
 - Obs: antes de iniciar a leitura dos comandos.
   - Aspas simples significa que não precisa usar aspas para realizar o comando
-  - Aspas dupla significa que precisa usar aspas para realziar o comando
+  - Aspas dupla significa que precisa usar aspas para realizar o comando
 
 ## Comandos básicos
 - Dentro desta página há um outro README com os comandos dos tópicos abaixo
