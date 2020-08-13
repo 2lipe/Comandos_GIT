@@ -38,4 +38,12 @@ maneira eficaz, caso seja últil para você não esqueça de deixar o ***Starrin
 - Iniciando um Bare repository
 - Criando/Trabalhando com Tags
 
-### Mais comandos em andamento...
+## Comandos avançados
+- Dentro desta página há um outro README com os comandos dos tópicos abaixo
+
+- Adicionando Repositório BARE
+- Clonando Repositório
+- Realizando Pull (Atualizando projeto
+- Desfazer Checkouts
+- Executando Revert
+- Removendo Commit
